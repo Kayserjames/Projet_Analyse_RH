@@ -172,7 +172,7 @@ Cette étude met en évidence que le turnover observé dans l’entreprise sembl
 L’analyse révèle également l’importance d’un suivi ciblé par département afin d’identifier les zones les plus exposées et d’adapter les stratégies de rétention en conséquence.
 
 Ce projet illustre l’utilisation de SQL et de l’analyse de données RH pour transformer des données opérationnelles en recommandations stratégiques exploitables.
-```
+
 
 
  
